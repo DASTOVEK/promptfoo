@@ -1,0 +1,16 @@
+name: promptfoo
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/c04e331a-eb66-4e81-a84e-dc82fb093c27
+description: Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/promptfoo
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
